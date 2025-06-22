@@ -8,7 +8,7 @@ Bienvenue sur le dépôt officiel de **TaaDa**, l’assistant qui vous permet d�
 
 ## 🚗 À propos de l'application
 
-**TaaDa est né d’un constat :** il n’existe aucune solution fiable pour utiliser Android Auto dans une Tesla sans passer par un boîtier externe, souvent onéreux et complexe à utiliser.
+**TaaDa est née d’un constat :** il n’existe aucune solution fiable pour utiliser Android Auto dans une Tesla sans passer par un boîtier externe, souvent onéreux et complexe à utiliser.
 
 L’objectif de TaaDa est donc simple : **offrir une alternative accessible, pratique et évolutive**, pensée dès le départ pour répondre aux besoins réels des utilisateurs.
 
