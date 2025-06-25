@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="README.md">🇬🇧 English</a> | 🇫🇷 Français
+  🇬🇧 <a href="README.md">English</a> | 🇫🇷 Français
 </p>
 
 # 📣 TaaDa – Tesla Android Auto Driver Assistant
