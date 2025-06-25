@@ -1,3 +1,7 @@
+<p align="right">
+  🇬🇧 English | <a href="docs/README.fr.md">🇫🇷 Français</a>
+</p>
+
 # 📣 TaaDa – Tesla Android Auto Driver Assistant
 
 Welcome to the official repository of **TaaDa**, the assistant that lets you use **Android Auto in your Tesla via the built-in browser**.  
