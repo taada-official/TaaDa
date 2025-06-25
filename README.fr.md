@@ -1,3 +1,7 @@
+<p align="right">
+  <a href="README.md">🇬🇧 English</a> | 🇫🇷 Français
+</p>
+
 # 📣 TaaDa – Tesla Android Auto Driver Assistant
 
 Bienvenue sur le dépôt officiel de **TaaDa**, l’assistant qui vous permet d’utiliser **Android Auto dans votre Tesla via le navigateur embarqué**.  
