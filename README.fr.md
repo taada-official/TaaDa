@@ -53,8 +53,8 @@ Merci de fournir autant d'informations que possible : description du problème, 
 
 - 📱 [TaaDa sur Google Play](https://play.google.com/store/apps/details?id=fr.sd.taada)
 - 🌐 [Site officiel – taada.top](https://taada.top)
-- 📖 Documentation utilisateur (à venir)
-- 💬 FAQ / Tutoriels (bientôt disponibles)
+- 📖 [Documentation utilisateur](doc.fr.md)
+- 💬 [FAQ / Tutoriels](doc.fr.md)
 
 ---
 
