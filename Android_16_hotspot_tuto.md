@@ -53,7 +53,7 @@ This tutorial will explain how to set up and use **Shizuku**, **Delta**, and **T
 
 #### 2.1 Installation
 
-1. Download the latest version of Delta from [https://github.com/supershadoe/delta/releases](https://github.com/supershadoe/delta/releases) or IzzyOnDroid F-Droid  
+1. Download the latest version of Delta from [https://github.com/supershadoe/delta/releases](https://github.com/supershadoe/delta/releases) or F-Droid
 2. Install the APK
 
 #### 2.2 Granting Permissions to Shizuku
@@ -66,7 +66,7 @@ This tutorial will explain how to set up and use **Shizuku**, **Delta**, and **T
 #### 2.3 Configuring Delta
 
 1. In Delta, configure your hotspot  
-2. In Advanced Settings, enable compatibility with “Tasket”  
+2. In Advanced Settings, enable compatibility with “Tasker”  
 3. Delta will now use Shizuku to turn the hotspot on or off.
 
 ### Step 3: Using with TaaDa
@@ -148,7 +148,7 @@ Ce tutoriel vous expliquera comment configurer et utiliser **Shizuku**, **Delta*
 
 #### 2.1 Installation
 
-1. Téléchargez la dernière version de Delta depuis [https://github.com/supershadoe/delta/releases](https://github.com/supershadoe/delta/releases) ou IzzyOnDroid F-Droid
+1. Téléchargez la dernière version de Delta depuis [https://github.com/supershadoe/delta/releases](https://github.com/supershadoe/delta/releases) ou F-Droid
 2. Installez l'APK
 
 #### 2.2 Octroi des Permissions à Shizuku
@@ -161,7 +161,7 @@ Ce tutoriel vous expliquera comment configurer et utiliser **Shizuku**, **Delta*
 #### 2.3 Configuration de Delta
 
 1. Dans Delta, configurez votre hotspot
-2. Dans les paramètres avancés, activer la compatibilité avec "Tasket"
+2. Dans les paramètres avancés, activer la compatibilité avec "Tasker"
 3. Delta utilisera désormais Shizuku pour activer ou désactiver le hotspot.
 
 ### Étape 3 : Utilisation avec Taada
